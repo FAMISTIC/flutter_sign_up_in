@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819472054986",
+    "project_id": "lab3tuto",
+    "storage_bucket": "lab3tuto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819472054986:android:fdcd5d2e11bca8a5c85233",
+        "android_client_info": {
+          "package_name": "com.example.lab3tuto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7wjuOvzEhdga7m8WeOUlApSzf2a_vaBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
